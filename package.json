@@ -1,0 +1,17 @@
+{
+  "name": "turing-ninjas",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next -p 8000",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.5.5",
+    "postcss-cli": "^8.1.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "tailwindcss": "^1.9.1"
+  }
+}
